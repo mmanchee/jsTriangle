@@ -2,7 +2,7 @@ function triCompare(num1, num2, num3) {
   let triangle;
 
   if (num1 === num2 && num1 === num3) {
-    triange = "a equilateral triangle";
+    triangle = "a equilateral triangle";
   } else if (num1 + num2 <= num3 || num1 + num3 <= num2 || num2 + num3 <= num1) {
     triangle = "not a triangle";
   } else if (num1 === num2 || num1 === num3 || num2 === num3) {
@@ -23,9 +23,8 @@ $(document).ready(function() {
     let triType = triCompare(length1, length2, length3);
 
     $("#triangle").text(triType);
-    $("userAnswer").show();
+    $("#userAnswer").show();
 
-    event.preventDefault;
+    event.preventDefault();
   });
-
 });
