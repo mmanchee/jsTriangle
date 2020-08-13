@@ -1,10 +1,11 @@
-# _Title_
+# _JavaScript Triangles_
 
-#### _Breif like (HTML Excersice for Epicodus), Date_
+#### _If Statement Excersice for Epicodus, August 13th, 2020_
 
-#### _Contributors_
+#### _Mike Manchee and Alma Frankenstien_
 
 ### Description
+JavaScript project using If Statements to determine what type of triangle is formed by entering 3 lines.
 
 ### Setup
 
@@ -20,5 +21,5 @@
 ### Other Links
 
 ### Licencing
-Copyright 2020 _NAME_
+Copyright 2020 _Mike Manchee and Alma Frankenstien_
 This is licenced under MIT
